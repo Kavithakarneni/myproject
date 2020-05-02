@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//Kavithakarneni.github.io/myproject/static/css/main.3fb67485.chunk.css",
+    "main.js": "/http//Kavithakarneni.github.io/myproject/static/js/main.9dbe0553.chunk.js",
+    "main.js.map": "/http//Kavithakarneni.github.io/myproject/static/js/main.9dbe0553.chunk.js.map",
+    "runtime-main.js": "/http//Kavithakarneni.github.io/myproject/static/js/runtime-main.cd405e15.js",
+    "runtime-main.js.map": "/http//Kavithakarneni.github.io/myproject/static/js/runtime-main.cd405e15.js.map",
+    "static/js/2.f1cd53a2.chunk.js": "/http//Kavithakarneni.github.io/myproject/static/js/2.f1cd53a2.chunk.js",
+    "static/js/2.f1cd53a2.chunk.js.map": "/http//Kavithakarneni.github.io/myproject/static/js/2.f1cd53a2.chunk.js.map",
+    "index.html": "/http//Kavithakarneni.github.io/myproject/index.html",
+    "precache-manifest.fec625bd28064993be7622c8a656dc11.js": "/http//Kavithakarneni.github.io/myproject/precache-manifest.fec625bd28064993be7622c8a656dc11.js",
+    "service-worker.js": "/http//Kavithakarneni.github.io/myproject/service-worker.js",
+    "static/css/main.3fb67485.chunk.css.map": "/http//Kavithakarneni.github.io/myproject/static/css/main.3fb67485.chunk.css.map",
+    "static/js/2.f1cd53a2.chunk.js.LICENSE.txt": "/http//Kavithakarneni.github.io/myproject/static/js/2.f1cd53a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd405e15.js",
+    "static/js/2.f1cd53a2.chunk.js",
+    "static/css/main.3fb67485.chunk.css",
+    "static/js/main.9dbe0553.chunk.js"
+  ]
+}
