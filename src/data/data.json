@@ -1,0 +1,42 @@
+{
+    "profiles":[
+        {
+            "basicInformation":{
+                "name":"Kavitha rani",
+                "role":"multi skill trainer",
+                "email":"kavitharani.k@apssdc.in",
+                "mobile":"+91 9246463738"
+            },
+            "education":[
+				{
+					"degree":"b-tech (E.E.E)",
+					"institution":"USHA RAMA college of engineering"
+				},
+				{
+					"degree":"Intermediate (M.P.C)",
+					"institution":"sarada junior college"
+				},
+				{
+					"degree":"S.S.C",
+					"institution":"S.T.V.R.MCH School"
+				}
+            ],
+            "Skills":[
+                    "Python",
+                    "PLC",
+                    "c-language",
+                    "Raptor",
+                    "MIT App inventor"
+                
+            ],
+            "Summery":[
+                "Having More than 2 years of experiance as a trainer in Apssdc",
+                "trained 2000+ students through Workshops and Certification programs",
+                " Certified in Internet of Things (IOT) Online course authorized by University of California",
+                " Certified in Python for everybody Offered By University of Michigan in Coursera",
+                "And Having good knowledge on data science Concepts using Python"
+            ]
+
+        }
+    ]
+}
